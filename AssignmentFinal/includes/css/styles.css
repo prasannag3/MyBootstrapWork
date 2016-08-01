@@ -166,15 +166,15 @@ ul.unstyled{
     height: 310px;
   }
   #slide1{
-    background: url('../../images/s11.jpg') top center no-repeat;
+    background: url('../../images/m1f.jpg') top center no-repeat;
     background-size: cover;
   }
   #slide2{
-    background: url('../../images/s12.jpg') top center no-repeat;
+    background: url('../../images/m2f.jpg') top center no-repeat;
       background-size: cover;
   }
   #slide3{
-    background: url('../../images/s13.jpg') top center no-repeat;
+    background: url('../../images/m3f.jpg') top center no-repeat;
       background-size: cover;
   }
   .carousel-caption{
